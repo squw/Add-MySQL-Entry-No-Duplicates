@@ -29,7 +29,7 @@ csv_file_path = 'rows_to_add.csv'
 # MySQL Creds
 host = ""
 username = ""
-password = "@"
+password = ""
 database_name = ""
 table_name = ""
 
