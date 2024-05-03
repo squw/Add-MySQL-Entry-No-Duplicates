@@ -27,11 +27,11 @@ def check_dup_add(df, row_to_add, cols_to_exclude, table_name):
 csv_file_path = 'rows_to_add.csv'
 
 # MySQL Creds
-host = "localhost"
-username = "squwsun"
-password = "@2001n12Y28"
-database_name = "test"
-table_name = "users"
+host = ""
+username = ""
+password = "@"
+database_name = ""
+table_name = ""
 
 # SQL query to select data from a table
 sql_query = f"SELECT * FROM {table_name}"
